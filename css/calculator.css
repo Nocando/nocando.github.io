@@ -1,0 +1,212 @@
+/************************************************
+					Main Styles
+************************************************/
+body {
+	background: #212129;
+	color: #212129;
+	font-family: 'Raleway', sans-serif;	
+}
+
+#top{
+	background: #A1A1A8;
+	height: 80px;
+	padding: 1px;
+}
+
+#calculator {
+	font-size: 30px;
+}
+
+#display {
+	font-size: 35px;
+}
+
+/************************************************
+				Base of Calculator
+************************************************/
+#cal-body {
+	background-color: #44444F;
+	height: 400px;
+	width: 385px;
+	border-radius: 5px;
+	position: absolute;
+	top: 100px;
+	left: 450px;
+}
+
+.cal-display{
+	background-color: #3BC075;
+	height: 60px;
+	width: 320px;
+	border-radius: 2px;
+	position: absolute;
+	top: 120px;
+	left: 480px;
+}
+
+/************************************************
+				Buttons Row 7-X
+************************************************/
+.cal-buttons7 {
+	background-color: #A1A1A8;
+	box-shadow: 0px 4px 1px #214040;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 200px;
+	left: 480px;
+}
+
+.cal-buttons8 {
+	background-color: #A1A1A8;
+	box-shadow: 0px 4px 1px #214040;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 200px;
+	left: 565px;
+}
+
+.cal-buttons9 {
+	background-color: #A1A1A8;
+	box-shadow: 0px 4px 1px #214040;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 200px;
+	left: 650px;
+}
+
+.cal-buttonsx {
+	background-color: #FFAD4F;
+	box-shadow: 0px 4px 1px #AB5C00;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 200px;
+	left: 735px;
+}
+
+/************************************************
+				Buttons Row 4-(-)
+************************************************/
+.cal-buttons4 {
+	background-color: #A1A1A8;
+	box-shadow: 0px 4px 1px #214040;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 265px;
+	left: 480px;
+}
+
+.cal-buttons5 {
+	background-color: #A1A1A8;
+	box-shadow: 0px 4px 1px #214040;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 265px;
+	left: 565px;
+}
+
+.cal-buttons6 {
+	background-color: #A1A1A8;
+	box-shadow: 0px 4px 1px #214040;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 265px;
+	left: 650px;
+}
+
+.cal-buttons- {
+	background-color: #FFAD4F;
+	box-shadow: 0px 4px 1px #AB5C00;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 265px;
+	left: 735px;
+}
+
+/************************************************
+				Buttons Row 1 - +
+************************************************/
+.cal-buttons1 {
+	background-color: #A1A1A8;
+	box-shadow: 0px 4px 1px #214040;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 330px;
+	left: 480px;
+}
+
+.cal-buttons2 {
+	background-color: #A1A1A8;
+	box-shadow: 0px 4px 1px #214040;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 330px;
+	left: 565px;
+}
+
+.cal-buttons3 {
+	background-color: #A1A1A8;
+	box-shadow: 0px 4px 1px #214040;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 330px;
+	left: 650px;
+}
+
+.cal-buttons-plus {
+	background-color: #FFAD4F;
+	box-shadow: 0px 4px 1px #AB5C00;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 330px;
+	left: 735px;
+}
+
+/************************************************
+				Buttons Row 0 - =
+************************************************/
+.cal-buttons0 {
+	background-color: #A1A1A8;
+	box-shadow: 0px 4px 1px #214040;
+	height: 48px;
+	width: 234px;
+	border-radius: 10px;
+	position: absolute;
+	top: 395px;
+	left: 480px;
+}
+
+.cal-buttons-equal {
+	background-color: #FFAD4F;
+	box-shadow: 0px 4px 1px #AB5C00;
+	height: 48px;
+	width: 65px;
+	border-radius: 10px;
+	position: absolute;
+	top: 395px;
+	left: 735px;
+}
+
